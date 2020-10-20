@@ -1,0 +1,26 @@
+    "TableNames": [
+        "AccountCreateConfig", 
+        "AccountSettingsConfig", 
+        "AppSettings", 
+        "BillingPlan", 
+        "Charts", 
+        "Content", 
+        "Enabled", 
+        "ErrorMessages", 
+        "ExclusionsInclusions", 
+        "FirmVersions", 
+        "GoalTypes", 
+        "GoogleAnalytics", 
+        "HeaderConfig", 
+        "KeycloakSettingsConfig", 
+        "PerformanceData", 
+        "ProgramConfig", 
+        "ProgramList", 
+        "QuestionnaireConfig", 
+        "QuestionnaireContentConfig", 
+        "RiskLevels", 
+        "Security", 
+        "ThemeList", 
+        "TransferMoney"
+    ]
+}
