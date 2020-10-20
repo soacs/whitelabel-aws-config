@@ -1,0 +1,228 @@
+{
+    "Parameters": [
+        {
+            "Name": "/dap/align/security", 
+            "LastModifiedDate": 1582579773.915, 
+            "Value": "{\"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"align\", \"date\": \"07/15/2019\",  \"documentAPIHostName\": \"https://apigw-int.dap.foliofn.com\",  \"oauthConfig\":   {\"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dap.invest.alignyourgreen.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",   \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\", \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/token\" },\"verificationApiUrl\": \"https://verification.dap.invest.alignyourgreen.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/align/security"
+        }, 
+        {
+            "Name": "/dap/climb/security", 
+            "LastModifiedDate": 1582569089.166, 
+            "Value": "{  \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"climb\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {    \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://climb.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/token\" },  \"verificationApiUrl\": \"https://verificationclimb.dapaws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/climb/security"
+        }, 
+        {
+            "Name": "/dap/collaborationcapital/security", 
+            "LastModifiedDate": 1584642889.305, 
+            "Value": "{\"backendApiHostName\":\"api.dapaws.foliofn.com\",\"brand\":\"collaborationcapital\",\"date\":\"06/10/2019\",\"oauthConfig\":{\"clientId\":\"roboDev\",\"loginUrl\":\"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\"logoutUrl\":\"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/logout\",\"redirectUri\":\"https://collaborationcapital.dapaws.foliofn.com/robo/authorization/callback\",\"scope\":\"token:folio_node\",\"sessionInactivity\":120000,\"storageKey\":\"folioRoboFAStoreDev\",\"tokenExpirationTimer\":30,\"tokenUrl\":\"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/token\"},\"verificationApiUrl\":\"https://verification.dapaws.foliofn.com\"}",
+            "Version": 1, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/collaborationcapital/security"
+        }, 
+        {
+            "Name": "/dap/firstaffirmative/security", 
+            "LastModifiedDate": 1582569725.855, 
+            "Value": "{ \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"firstaffirmative\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {  \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwp.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/dap/foliofinancial/security", 
+            "LastModifiedDate": 1582570361.397, 
+            "Value": "{ \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"foliofinancial\",  \"date\": \"07/15/2019\",  \"oauthConfig\": {    \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://foliofinancial.dapaws.foliofn.com/folioalpha/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/foliofinancial/security"
+        }, 
+        {
+            "Name": "/dap/navyfederal/security", 
+            "LastModifiedDate": 1582570646.71, 
+            "Value": "{  \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"navyfederal\",  \"date\": \"06/10/2019\", \"oauthConfig\": {   \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwprobo.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 2, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/dap/navyfederal/security"
+        }, 
+        {
+            "Name": "/eap/align/security", 
+            "LastModifiedDate": 1582579947.592, 
+            "Value": "{  \"backendApiHostName\": \"api.eapaws.foliofn.com\",  \"brand\": \"align\",  \"date\": \"07/15/2019\",  \"documentAPIHostName\": \"https://apigw-int.eap.foliofn.com\", \"oauthConfig\": {   \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauth.eap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauth.eap.invest.alignyourgreen.com/oauth_authorization/logout\",  \"redirectUri\": \"https://eap.invest.alignyourgreen.com/robo/authorization/callback\",   \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,   \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauth.eap.invest.alignyourgreen.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.eap.invest.alignyourgreen.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/eap/align/security"
+        }, 
+        {
+            "Name": "/eap/foliofinancial.security", 
+            "LastModifiedDate": 1582570537.957, 
+            "Value": "{ \"backendApiHostName\": \"api.eapaws.foliofn.com\",\"brand\": \"foliofinancial\",  \"date\": \"07/15/2019\",  \"oauthConfig\": {  \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthfolioalpha.eapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthfolioalpha.eapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://foliofinancial.eapaws.foliofn.com/folioalpha/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthfolioalpha.eapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.eapaws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/eap/foliofinancial.security"
+        }, 
+        {
+            "Name": "test", 
+            "LastModifiedDate": 1582643813.176, 
+            "Value": "{\"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"align\", \"date\": \"07/15/2019\",  \"documentAPIHostName\": \"https://apigw-int.dap.foliofn.com\",  \"oauthConfig\":   {\"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dap.invest.alignyourgreen.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",   \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\", \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/token\" },\"verificationApiUrl\": \"https://verification.dap.invest.alignyourgreen.com\"}", 
+            "Version": 1, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/test"
+        }, 
+        {
+            "Name": "test2", 
+            "LastModifiedDate": 1582644111.91, 
+            "Value": "{\n  \"backendApiHostName\": \"api.dapaws.foliofn.com\",\n  \"brand\": \"climb\",\n  \"date\": \"06/10/2019\",\n  \"oauthConfig\": {\n    \"clientId\": \"roboDev\",\n    \"loginUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\n    \"logoutUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/logout\",\n    \"redirectUri\": \"https://climb.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",\n    \"sessionInactivity\": 120000,\n    \"storageKey\": \"folioRoboFAStoreDev\",\n    \"tokenExpirationTimer\": 30,\n    \"tokenUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/token\"\n  },\n  \"verificationApiUrl\": \"https://verificationclimb.dapaws.foliofn.com\"\n}", 
+            "Version": 1, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/test2"
+        }, 
+        {
+            "Name": "/eap/climb/security", 
+            "LastModifiedDate": 1582580797.516, 
+            "Value": "{ \"backendApiHostName\": \"api.eapaws.foliofn.com\", \"brand\": \"climb\", \"date\": \"06/10/2019\",  \"oauthConfig\": {   \"clientId\": \"roboDev\",   \"loginUrl\": \"https://oauthclimb.eapaws.foliofn.com/oauth_authorization/oauth/authorize\", \"logoutUrl\": \"https://oauthclimb.eapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://climb.eapaws.foliofn.com/robo/authorization/callback\", \"scope\": \"token:folio_node\",   \"sessionInactivity\": 120000,   \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauthclimb.eapaws.foliofn.com/oauth_authorization/oauth/token\"  }, \"verificationApiUrl\": \"https://verificationclimb.eapaws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/eap/climb/security"
+        }, 
+        {
+            "Name": "/eap/firstaffirmative/security", 
+            "LastModifiedDate": 1582571095.848, 
+            "Value": "{\"backendApiHostName\": \"api.eapaws.foliofn.com\",  \"brand\": \"firstaffirmative\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {  \"clientId\": \"roboDev\",   \"loginUrl\": \"https://oauthdwp.eapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwp.eapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwp.eapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwp.eapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.eapaws.foliofn.com\"}", 
+            "Version": 5, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/eap/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/eap/navyfederal/security", 
+            "LastModifiedDate": 1582587403.466, 
+            "Value": "{ \"backendApiHostName\": \"api.eapaws.foliofn.com\",  \"brand\": \"navyfederal\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {    \"clientId\": \"roboDev\",   \"loginUrl\": \"https://oauthdwprobo.eapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwprobo.eapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwprobo.eapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwprobo.eapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.eapaws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/eap/navyfederal/security"
+        }, 
+        {
+            "Name": "/prod/align/security", 
+            "LastModifiedDate": 1582590117.431, 
+            "Value": "{ \"backendApiHostName\": \"api.proddemo.foliofn.com\",  \"brand\": \"align\",  \"date\": \"07/15/2019\", \"documentAPIHostName\": \"https://10.70.53.178\",  \"oauthConfig\": {    \"clientId\": \"nodeKey\",   \"loginUrl\": \"https://oauth.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",   \"logoutUrl\": \"https://oauth.invest.alignyourgreen.com/oauth_authorization/logout\", \"redirectUri\": \"https://invest.alignyourgreen.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauth.invest.alignyourgreen.com/oauth_authorization/oauth/token\" }, \"verificationApiUrl\": \"https://verification.invest.alignyourgreen.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/prod/align/security"
+        }, 
+        {
+            "Name": "/prod/climb/security", 
+            "LastModifiedDate": 1582590404.314, 
+            "Value": "{ \"backendApiHostName\": \"api.proddemo.foliofn.com\", \"brand\": \"climb\", \"date\": \"06/10/2019\",  \"oauthConfig\": {   \"clientId\": \"nodeKey\",   \"loginUrl\": \"https://oauth.invest.climbinv.com/oauth_authorization/oauth/authorize\", \"logoutUrl\": \"https://oauth.invest.climbinv.com/oauth_authorization/logout\", \"redirectUri\": \"https://invest.climbinv.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,   \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauth.invest.climbinv.com/oauth_authorization/oauth/token\"}, \"verificationApiUrl\": \"https://verification.invest.climbinv.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/prod/climb/security"
+        }, 
+        {
+            "Name": "/prod/firstaffirmative/security", 
+            "LastModifiedDate": 1582590778.769, 
+            "Value": "{ \"backendApiHostName\": \"api.proddemo.foliofn.com\",  \"brand\": \"firstaffirmative\",\"date\": \"06/10/2019\",  \"oauthConfig\": {   \"clientId\": \"nodeKey\",  \"loginUrl\": \"https://oauth.dwsp.firstaffirmative.com/oauth_authorization/oauth/authorize\",   \"logoutUrl\": \"https://oauth.dwsp.firstaffirmative.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwsp.firstaffirmative.com/robo/authorization/callback\",   \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,   \"storageKey\": \"folioRoboFAStoreDev\",   \"tokenUrl\": \"https://oauth.dwsp.firstaffirmative.com/oauth_authorization/oauth/token\"},\"verificationApiUrl\": \"https://verification.proddemo.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/prod/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/prod/foliofinancial/security", 
+            "LastModifiedDate": 1582591302.772, 
+            "Value": "{ \"backendApiHostName\": \"api.proddemo.foliofn.com\", \"brand\": \"foliofinancial\", \"date\": \"07/15/2019\",  \"oauthConfig\": {   \"clientId\": \"nodeKey\",   \"loginUrl\": \"https://oauthfolioalpha.proddemo.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthfolioalpha.proddemo.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://foliofinancial.proddemo.foliofn.com/folioalpha/authorization/callback\",    \"scope\": \"token:folio_node\",   \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauthfolioalpha.proddemo.foliofn.com/oauth_authorization/oauth/token\",  },  \"verificationApiUrl\": \"https://verification.proddemo.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/prod/foliofinancial/security"
+        }, 
+        {
+            "Name": "/prod/navyfederal/security", 
+            "LastModifiedDate": 1582591676.452, 
+            "Value": "{ \"backendApiHostName\": \"api.proddemo.foliofn.com\",  \"brand\": \"navyfederal\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {   \"clientId\": \"nodeKey\",    \"loginUrl\": \"https://oauthdwprobo.proddemo.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwprobo.proddemo.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwprobo.proddemo.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauthdwprobo.proddemo.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.proddemo.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/prod/navyfederal/security"
+        }, 
+        {
+            "Name": "/sbx/align/security", 
+            "LastModifiedDate": 1582580174.937, 
+            "Value": "{\"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"align\", \"date\": \"07/15/2019\",  \"documentAPIHostName\": \"https://apigw-int.dap.foliofn.com\",  \"oauthConfig\":   {\"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dap.invest.alignyourgreen.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",   \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\", \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/token\",  },\"verificationApiUrl\": \"https://verification.dap.invest.alignyourgreen.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/align/security"
+        }, 
+        {
+            "Name": "/sbx/climb/security", 
+            "LastModifiedDate": 1582569155.107, 
+            "Value": "{  \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"climb\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {    \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://climb.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 30,    \"tokenUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/token\" },  \"verificationApiUrl\": \"https://verificationclimb.dapaws.foliofn.com\"}", 
+            "Version": 2, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/climb/security"
+        }, 
+        {
+            "Name": "/sbx/firstaffirmative/security", 
+            "LastModifiedDate": 1582569674.046, 
+            "Value": "{ \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"firstaffirmative\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {  \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwp.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/sbx/foliofinancial/security", 
+            "LastModifiedDate": 1582569581.921, 
+            "Value": "{ \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"foliofinancial\",  \"date\": \"07/15/2019\",  \"oauthConfig\": {    \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://foliofinancial.dapaws.foliofn.com/folioalpha/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/foliofinancial/security"
+        }, 
+        {
+            "Name": "/sbx/navyfederal/security", 
+            "LastModifiedDate": 1582570266.828, 
+            "Value": "{  \"backendApiHostName\": \"api.dapaws.foliofn.com\",  \"brand\": \"navyfederal\",  \"date\": \"06/10/2019\", \"oauthConfig\": {   \"clientId\": \"roboDev\",    \"loginUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/logout\",    \"redirectUri\": \"https://dwprobo.dapaws.foliofn.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenExpirationTimer\": 90,    \"tokenUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/navyfederal/security"
+        }, 
+        {
+            "Name": "/uat/align/security", 
+            "LastModifiedDate": 1582587917.698, 
+            "Value": "{ \"backendApiHostName\": \"api.uataws.foliofn.com\", \"brand\": \"align\", \"date\": \"07/15/2019\", \"documentAPIHostName\": \"https://apigw-int.uat.foliofn.com\",  \"oauthConfig\": {   \"clientId\": \"uatNodeKey\",   \"loginUrl\": \"https://oauth.uat.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",   \"logoutUrl\": \"https://oauth.uat.invest.alignyourgreen.com/oauth_authorization/logout\", \"redirectUri\": \"https://uat.invest.alignyourgreen.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauth.uat.invest.alignyourgreen.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.uat.invest.alignyourgreen.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/uat/align/security"
+        }, 
+        {
+            "Name": "/uat/climb/security", 
+            "LastModifiedDate": 1582588216.655, 
+            "Value": "{ \"backendApiHostName\": \"api.uataws.foliofn.com\", \"brand\": \"climb\",  \"date\": \"06/10/2019\", \"oauthConfig\": {   \"clientId\": \"uatNodeKey\",    \"loginUrl\": \"https://oauth.uat.invest.climbinv.com/oauth_authorization/oauth/authorize\",  \"logoutUrl\": \"https://oauth.uat.invest.climbinv.com/oauth_authorization/logout\",  \"redirectUri\": \"https://uat.invest.climbinv.com/robo/authorization/callback\", \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauth.uat.invest.climbinv.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://uatverification.folioidentity.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/uat/climb/security"
+        }, 
+        {
+            "Name": "/uat/firstaffirmative/security", 
+            "LastModifiedDate": 1582588757.31, 
+            "Value": "{  \"backendApiHostName\": \"api.uataws.foliofn.com\",  \"brand\": \"firstaffirmative\",  \"date\": \"06/10/2019\",  \"oauthConfig\": {   \"clientId\": \"uatNodeKey\",   \"loginUrl\": \"https://oauth.uat.dwsp.firstaffirmative.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauth.uat.dwsp.firstaffirmative.com/oauth_authorization/logout\", \"redirectUri\": \"https://uat.dwsp.firstaffirmative.com/robo/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauth.uat.dwsp.firstaffirmative.com/oauth_authorization/oauth/token\"  },  \"verificationApiUrl\": \"https://verification.uataws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/uat/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/uat/foliofinancial/security", 
+            "LastModifiedDate": 1582589122.728, 
+            "Value": "{  \"backendApiHostName\": \"api.uataws.foliofn.com\",  \"brand\": \"foliofinancial\", \"date\": \"07/15/2019\", \"oauthConfig\": {    \"clientId\": \"uatNodeKey\",   \"loginUrl\": \"https://oauthfolioalpha.uataws.foliofn.com/oauth_authorization/oauth/authorize\",  \"logoutUrl\": \"https://oauthfolioalpha.uataws.foliofn.com/oauth_authorization/logout\",   \"redirectUri\": \"https://foliofinancial.uataws.foliofn.com/folioalpha/authorization/callback\",    \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,   \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauthfolioalpha.uataws.foliofn.com/oauth_authorization/oauth/token\" },  \"verificationApiUrl\": \"https://verification.uataws.foliofn.com\"}", 
+            "Version": 4, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/uat/foliofinancial/security"
+        }, 
+        {
+            "Name": "/uat/navyfederal/security", 
+            "LastModifiedDate": 1582589579.347, 
+            "Value": "{  \"backendApiHostName\": \"api.uataws.foliofn.com\",  \"brand\": \"navyfederal\", \"date\": \"06/10/2019\", \"oauthConfig\": { \"clientId\": \"uatNodeKey\",   \"loginUrl\": \"https://oauthdwprobo.uataws.foliofn.com/oauth_authorization/oauth/authorize\",    \"logoutUrl\": \"https://oauthdwprobo.uataws.foliofn.com/oauth_authorization/logout\",   \"redirectUri\": \"https://dwprobo.uataws.foliofn.com/robo/authorization/callback\",   \"scope\": \"token:folio_node\",    \"sessionInactivity\": 120000,    \"storageKey\": \"folioRoboFAStoreDev\",    \"tokenUrl\": \"https://oauthdwprobo.uataws.foliofn.com/oauth_authorization/oauth/token\" }, \"verificationApiUrl\": \"https://verification.uataws.foliofn.com\"}", 
+            "Version": 3, 
+            "Type": "StringList", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/uat/navyfederal/security"
+        }
+    ]
+}
