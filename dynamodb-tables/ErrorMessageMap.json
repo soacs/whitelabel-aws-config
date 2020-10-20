@@ -1,0 +1,2251 @@
+{
+    "Count": 204, 
+    "Items": [
+        {
+            "errorCode": {
+                "S": "allows.only.digits"
+            }, 
+            "index": {
+                "N": "187"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter numbers only"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.accreditation.verification.method"
+            }, 
+            "index": {
+                "N": "154"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.has.transaction.waiting.for.confirmation"
+            }, 
+            "index": {
+                "N": "7"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850007"
+            }, 
+            "index": {
+                "N": "115"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850007"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850009"
+            }, 
+            "index": {
+                "N": "117"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9007"
+            }, 
+            "index": {
+                "N": "47"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "AHW, WIW, COW, CRW - The system cannot locate the account information. Please contact Client Services for assistance. AHD – The system cannot locate the bank information. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "cannot.be.whitespace.only"
+            }, 
+            "index": {
+                "N": "184"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.unique.name.rule"
+            }, 
+            "index": {
+                "N": "156"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You already have an account with this name."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "830002"
+            }, 
+            "index": {
+                "N": "122"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "An error occurred during the creation of your goal/portfolio. Please contact Client Services for assistance.  Error Code: 830002"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.sector.exclusion.rule"
+            }, 
+            "index": {
+                "N": "145"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid sector. Please enter the sector to be excluded from list."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.choice"
+            }, 
+            "index": {
+                "N": "195"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "810004"
+            }, 
+            "index": {
+                "N": "130"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "This email address is already in use. Please provide another email address."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9051"
+            }, 
+            "index": {
+                "N": "79"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.tenpct.security.rule"
+            }, 
+            "index": {
+                "N": "172"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The item(s) must be completed."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9040"
+            }, 
+            "index": {
+                "N": "69"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850002"
+            }, 
+            "index": {
+                "N": "110"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850002"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "valid.banklink.verification.status"
+            }, 
+            "index": {
+                "N": "8"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9028"
+            }, 
+            "index": {
+                "N": "62"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The Federal withholding type can only be ‘None,’ ‘Fixed Dollar,’ or ‘Percentage’. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.percentage.value"
+            }, 
+            "index": {
+                "N": "197"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9017"
+            }, 
+            "index": {
+                "N": "54"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The withdrawal amount exceeds the account transaction limit. Please enter another amount."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9047"
+            }, 
+            "index": {
+                "N": "75"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.group.firm.unqiue.account.rule"
+            }, 
+            "index": {
+                "N": "163"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Corporate entity cannot have more than one account. Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9117"
+            }, 
+            "index": {
+                "N": "89"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "One or more of the values entered is incorrect. Please try again."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9026"
+            }, 
+            "index": {
+                "N": "32"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "922000"
+            }, 
+            "index": {
+                "N": "131"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 922000"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "whitespace.not.allowed"
+            }, 
+            "index": {
+                "N": "185"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "loginid.not.found"
+            }, 
+            "index": {
+                "N": "200"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter a valid log-in"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850005"
+            }, 
+            "index": {
+                "N": "113"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850005"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850010"
+            }, 
+            "index": {
+                "N": "118"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "cannot.be.negative"
+            }, 
+            "index": {
+                "N": "198"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Value needs to be greater than 1. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.accreditation.verification.sublevel"
+            }, 
+            "index": {
+                "N": "153"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "922004"
+            }, 
+            "index": {
+                "N": "135"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 922004"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.group.firm.invalid.tax.classification.rule"
+            }, 
+            "index": {
+                "N": "164"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Tax classification value is invalid for specified type of corporate account. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9019"
+            }, 
+            "index": {
+                "N": "56"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.value"
+            }, 
+            "index": {
+                "N": "152"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.advisory.firm.registered.state.rule"
+            }, 
+            "index": {
+                "N": "162"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Firm cannot practice in state chosen by owner(s).Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9113"
+            }, 
+            "index": {
+                "N": "104"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid action value. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.joint.owner"
+            }, 
+            "index": {
+                "N": "139"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please  enter the correct login ID for joint account owner"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9002"
+            }, 
+            "index": {
+                "N": "44"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Current Day transactions must be created prior to 12:00 pm EST. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1002"
+            }, 
+            "index": {
+                "N": "39"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.missing.or.wrong.state"
+            }, 
+            "index": {
+                "N": "10"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "User attempted to use a deleted Bank Link. Please choose another Bank Link or contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9054"
+            }, 
+            "index": {
+                "N": "82"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9023"
+            }, 
+            "index": {
+                "N": "31"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.minor.age.rule"
+            }, 
+            "index": {
+                "N": "160"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The information in the item(s) is not valid. [Date Of Birth]"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.date"
+            }, 
+            "index": {
+                "N": "191"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid date. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9021"
+            }, 
+            "index": {
+                "N": "58"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1004"
+            }, 
+            "index": {
+                "N": "3"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9031"
+            }, 
+            "index": {
+                "N": "65"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The State withholding amount is not correct. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "922001"
+            }, 
+            "index": {
+                "N": "132"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 922001"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "restriction.removal.allowed.rule"
+            }, 
+            "index": {
+                "N": "166"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have permission to remove this restriction."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1001"
+            }, 
+            "index": {
+                "N": "38"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.unique.login.id"
+            }, 
+            "index": {
+                "N": "169"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Username/login ID has to be unique. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9105"
+            }, 
+            "index": {
+                "N": "96"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid address field value. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "cannot.be.null"
+            }, 
+            "index": {
+                "N": "181"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "accreditation.verification.parent.level.invalid.choice"
+            }, 
+            "index": {
+                "N": "178"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "830003"
+            }, 
+            "index": {
+                "N": "123"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "An error occurred during the creation of your goal/portfolio. Please contact Client Services for assistance.  Error Code: 830003"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.statecode"
+            }, 
+            "index": {
+                "N": "151"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid US State. [Home State]"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9053"
+            }, 
+            "index": {
+                "N": "81"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1003"
+            }, 
+            "index": {
+                "N": "2"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.ssn"
+            }, 
+            "index": {
+                "N": "194"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "There are too many clients with the same SSN on this platform."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "830000"
+            }, 
+            "index": {
+                "N": "120"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "An error occurred during the creation of your goal/portfolio. Please contact Client Services for assistance.  Error Code: 830000"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "user.does.not.have.permission.to.use.override.permission"
+            }, 
+            "index": {
+                "N": "21"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have the permission rights to use the override features. Please contact Client Services for assistance.(This will be used when CSR functionality is introduced.)"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "cannot.be.blank"
+            }, 
+            "index": {
+                "N": "183"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1003"
+            }, 
+            "index": {
+                "N": "40"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "duplicated.banklink"
+            }, 
+            "index": {
+                "N": "14"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "A Bank Link already exists for this account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "840002"
+            }, 
+            "index": {
+                "N": "203"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 840002"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9018"
+            }, 
+            "index": {
+                "N": "55"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "This account is not linked to the Bank Link. Please choose another Bank Link."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.verification.failed.microdeposits.due.to.incorrect.microdeposit.amounts"
+            }, 
+            "index": {
+                "N": "18"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The microdeposit verification amounts are incorrect. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9109"
+            }, 
+            "index": {
+                "N": "100"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid status value. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.accreditation.verification.expiration.date"
+            }, 
+            "index": {
+                "N": "155"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.primary.owner"
+            }, 
+            "index": {
+                "N": "138"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter the correct login ID for primary account owner"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.riskwise.rule"
+            }, 
+            "index": {
+                "N": "170"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The client fails the Riskwise (KYC) validation."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850000"
+            }, 
+            "index": {
+                "N": "108"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850000"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "810002"
+            }, 
+            "index": {
+                "N": "128"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850016"
+            }, 
+            "index": {
+                "N": "202"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "There is an open order at this time. Your new order can be entered after the current order is executed."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9107"
+            }, 
+            "index": {
+                "N": "98"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid phone number. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9057"
+            }, 
+            "index": {
+                "N": "85"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9104"
+            }, 
+            "index": {
+                "N": "95"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Missing signature image encode. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "840000"
+            }, 
+            "index": {
+                "N": "124"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 840000"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.poly.watch.account.rule"
+            }, 
+            "index": {
+                "N": "165"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Member is limited to one watch account. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.advisor.rule"
+            }, 
+            "index": {
+                "N": "142"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter the correct login ID for advisor"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "pending.efts.found"
+            }, 
+            "index": {
+                "N": "25"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The system cannot delete the Bank link. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.over_banklinks_throttle_amount"
+            }, 
+            "index": {
+                "N": "201"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "No additional banklinks can be created for this account today due to system limits. Please try again tomorrow or contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.type.c.or.s"
+            }, 
+            "index": {
+                "N": "12"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Bank Link type should be Checking or Savings. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "external.bank.account.in.use.for.microdeposit.verification"
+            }, 
+            "index": {
+                "N": "9"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "This Bank Link is already linked to another account and must be verified prior to creating the same Bank Link for this account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.primary.address.cannot.be.po.box"
+            }, 
+            "index": {
+                "N": "173"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "P.O. Boxes are not allowed."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9016"
+            }, 
+            "index": {
+                "N": "53"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The deposit amount exceeds the account transaction limit. Please enter another amount."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9106"
+            }, 
+            "index": {
+                "N": "97"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid email address. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "less.than.minimum.value"
+            }, 
+            "index": {
+                "N": "199"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9012"
+            }, 
+            "index": {
+                "N": "52"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "ACH deposits have been disabled for this account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "default"
+            }, 
+            "index": {
+                "N": "27"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.creation.error.due.to.banklink.governor"
+            }, 
+            "index": {
+                "N": "4"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Bank links cannot be created due to account restrictions. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850003"
+            }, 
+            "index": {
+                "N": "111"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850003"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.joint.account.state.limit.rule"
+            }, 
+            "index": {
+                "N": "161"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Joint account type is restricted in certain states. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.invalid.operation.should.be.delete"
+            }, 
+            "index": {
+                "N": "26"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The system does not recognize these Bank Link updates. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.not.owned.by.account"
+            }, 
+            "index": {
+                "N": "13"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The selected Bank Link does not belong to the selected account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.character"
+            }, 
+            "index": {
+                "N": "190"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid characters. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "810001"
+            }, 
+            "index": {
+                "N": "127"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850015"
+            }, 
+            "index": {
+                "N": "119"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Goal does not exist. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.no.items.for.attention.found.for.banklink.internal.error"
+            }, 
+            "index": {
+                "N": "16"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9058"
+            }, 
+            "index": {
+                "N": "86"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Withdrawals are blocked for this account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9052"
+            }, 
+            "index": {
+                "N": "80"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.ssn"
+            }, 
+            "index": {
+                "N": "149"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You must enter the required number of characters. [SSN]"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9044"
+            }, 
+            "index": {
+                "N": "72"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The frequency can only be ‘One-Time’, ‘Weekly’, ‘Monthly’, or ‘Yearly’. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.zipcode"
+            }, 
+            "index": {
+                "N": "193"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid Zip Code. Please enter a valid 5 or 9 digit zip code."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9048"
+            }, 
+            "index": {
+                "N": "76"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please specify “Cancel next transaction’ or ‘Cancel series’ to cancel transaction. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.partner.code.rule"
+            }, 
+            "index": {
+                "N": "176"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Partner code is invalid. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.security.exclusion.rule"
+            }, 
+            "index": {
+                "N": "143"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid ticker. Please enter the security ticker to be excluded from list."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.choice"
+            }, 
+            "index": {
+                "N": "150"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9102"
+            }, 
+            "index": {
+                "N": "93"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Missing signature data. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9003"
+            }, 
+            "index": {
+                "N": "45"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The transaction amount cannot exceed the maximum transaction limit. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1004"
+            }, 
+            "index": {
+                "N": "41"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.zipcode"
+            }, 
+            "index": {
+                "N": "148"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid Zip Code. Please enter a valid 5 or 9 digit zip code."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.no.matching.items.for.attention.found.for.banklink.internal.error"
+            }, 
+            "index": {
+                "N": "17"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "5000"
+            }, 
+            "index": {
+                "N": "136"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "922002"
+            }, 
+            "index": {
+                "N": "133"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 922002"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "transfer.money.invalid.bankaccount.number"
+            }, 
+            "index": {
+                "N": "6"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The bank account number is invalid. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.billing.oid.rule"
+            }, 
+            "index": {
+                "N": "157"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Billing plan is invalid. Please pick another billing plan."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9032"
+            }, 
+            "index": {
+                "N": "66"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The distribution reason code is invalid. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9029"
+            }, 
+            "index": {
+                "N": "63"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The State withholding type can only be ‘None,’ ‘Fixed Dollar,’ or ‘Percentage’. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9006"
+            }, 
+            "index": {
+                "N": "46"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "AHW, WIW - The system cannot locate the bank information. Please contact Client Services for assistance. COW, CRW – The system cannot locate the mailing address. Please contact Client Services for assistance. AHD – The system cannot locate the account information. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9010"
+            }, 
+            "index": {
+                "N": "50"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "After April 15 (current year), contribution year must be the current year. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "allows.only.digits.letters.spaces"
+            }, 
+            "index": {
+                "N": "189"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter alphanumeric characters only"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9043"
+            }, 
+            "index": {
+                "N": "36"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9022"
+            }, 
+            "index": {
+                "N": "59"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.unique.ssn.rule"
+            }, 
+            "index": {
+                "N": "168"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "There are too many clients with the same SSN on this platform."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.legal.age.state.rule"
+            }, 
+            "index": {
+                "N": "171"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Your state of residence does not allow individuals your age or younger to open brokerage accounts."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "5001"
+            }, 
+            "index": {
+                "N": "137"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You do not have access to this Goal. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9042"
+            }, 
+            "index": {
+                "N": "71"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.is.not.a.micro.deposit"
+            }, 
+            "index": {
+                "N": "20"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.final.verification.failure.no.more.attempts"
+            }, 
+            "index": {
+                "N": "19"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "You have exceeded the maximum amount of Bank Link verifications. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.tax.lot.selection.choice"
+            }, 
+            "index": {
+                "N": "141"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter the correct tax lot selection"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9045"
+            }, 
+            "index": {
+                "N": "73"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "allows.only.digits.letters"
+            }, 
+            "index": {
+                "N": "188"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter alphanumeric characters only"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9111"
+            }, 
+            "index": {
+                "N": "102"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid signature data. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9112"
+            }, 
+            "index": {
+                "N": "103"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid uploaded document file name. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9115"
+            }, 
+            "index": {
+                "N": "106"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Missing uploaded document file name. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.no.duplicate.client.by.same.ssn"
+            }, 
+            "index": {
+                "N": "177"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "There is already one managed client managed by the specific advisor. Please enter another SSN."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "transfer.money.duplicate.banklink"
+            }, 
+            "index": {
+                "N": "88"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Duplicate Bank Link. Please enter a new Bank Link."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.citizenship"
+            }, 
+            "index": {
+                "N": "192"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter US Citizen or Resident Alien"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "840001"
+            }, 
+            "index": {
+                "N": "125"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 840001"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9050"
+            }, 
+            "index": {
+                "N": "78"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.accreditation.netWorth.rule"
+            }, 
+            "index": {
+                "N": "175"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9025"
+            }, 
+            "index": {
+                "N": "61"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.beneficiary.share.percentage.rule"
+            }, 
+            "index": {
+                "N": "158"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Sum of share percentages of all the beneficiaries in the same beneficiary category should be equal to 100."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "member.accreditation.annual.income.rule"
+            }, 
+            "index": {
+                "N": "174"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter annual income details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "922003"
+            }, 
+            "index": {
+                "N": "134"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 922003"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9034"
+            }, 
+            "index": {
+                "N": "33"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9035"
+            }, 
+            "index": {
+                "N": "34"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9036"
+            }, 
+            "index": {
+                "N": "35"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850006"
+            }, 
+            "index": {
+                "N": "114"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850006"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9000"
+            }, 
+            "index": {
+                "N": "42"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Process date for the transaction cannot be a prior date. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.security.exclusion.end.date.rule"
+            }, 
+            "index": {
+                "N": "167"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "End date occurs before start date. Please re-enter the end date."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1002"
+            }, 
+            "index": {
+                "N": "1"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9049"
+            }, 
+            "index": {
+                "N": "77"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9009"
+            }, 
+            "index": {
+                "N": "49"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter a contribution year."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9114"
+            }, 
+            "index": {
+                "N": "105"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid IFA state transition. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9037"
+            }, 
+            "index": {
+                "N": "37"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.citizenship"
+            }, 
+            "index": {
+                "N": "147"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please enter the country of citizenship"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "830001"
+            }, 
+            "index": {
+                "N": "121"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "An optimal portfolio could not be generated for the inputs you provided. Please adjust your inputs and try again. Error Code: 830001"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.statecode"
+            }, 
+            "index": {
+                "N": "196"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9101"
+            }, 
+            "index": {
+                "N": "92"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid signature method. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1001"
+            }, 
+            "index": {
+                "N": "0"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9110"
+            }, 
+            "index": {
+                "N": "101"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid member ID. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9011"
+            }, 
+            "index": {
+                "N": "51"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "This account does not allow deposits. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850001"
+            }, 
+            "index": {
+                "N": "109"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850001"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850004"
+            }, 
+            "index": {
+                "N": "112"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850004"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.issue.exclusion.rule"
+            }, 
+            "index": {
+                "N": "144"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid issue. Please enter the issue to be excluded from list."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9030"
+            }, 
+            "index": {
+                "N": "64"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The Federal withholding amount is not correct. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9060"
+            }, 
+            "index": {
+                "N": "87"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Transaction amount exceeds annual IRA contribution limits. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9001"
+            }, 
+            "index": {
+                "N": "43"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Process date for the transaction cannot be a non-settlement date. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.date"
+            }, 
+            "index": {
+                "N": "146"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The date you entered is not valid. [Birthdate]"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "transfer.money.invalid.routing.number"
+            }, 
+            "index": {
+                "N": "5"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The ABA Routing number is invalid. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "must.supply.owner.login.id.with.md.override.flag"
+            }, 
+            "index": {
+                "N": "22"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9116"
+            }, 
+            "index": {
+                "N": "107"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid signature image encode. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9039"
+            }, 
+            "index": {
+                "N": "68"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1001"
+            }, 
+            "index": {
+                "N": "90"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Field cannot be empty. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9005"
+            }, 
+            "index": {
+                "N": "29"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.wrong.status.for.cancel"
+            }, 
+            "index": {
+                "N": "24"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The system is attempting to delete an already deleted Bank Link. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9055"
+            }, 
+            "index": {
+                "N": "83"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Tax withholding amount cannot exceed withdrawal amount. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.over_max_num_of_banklinks"
+            }, 
+            "index": {
+                "N": "23"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The Firm has reached the limit to create the number of Bank Links for this account. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9013"
+            }, 
+            "index": {
+                "N": "30"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.no.member.found.for.loginid"
+            }, 
+            "index": {
+                "N": "15"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "810000"
+            }, 
+            "index": {
+                "N": "126"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 810000"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "850008"
+            }, 
+            "index": {
+                "N": "116"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance. Error Code: 850008"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9004"
+            }, 
+            "index": {
+                "N": "28"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.beneficiary.polygamy.rule"
+            }, 
+            "index": {
+                "N": "159"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Only one beneficiary may be listed as your spouse."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9038"
+            }, 
+            "index": {
+                "N": "67"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "banklink.invalid.route"
+            }, 
+            "index": {
+                "N": "11"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid ABA Routing number. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "1003"
+            }, 
+            "index": {
+                "N": "91"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid field value. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "must.be.null"
+            }, 
+            "index": {
+                "N": "180"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9056"
+            }, 
+            "index": {
+                "N": "84"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "accreditation.verification.sub.level.invalid.choice"
+            }, 
+            "index": {
+                "N": "179"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9103"
+            }, 
+            "index": {
+                "N": "94"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Missing document data. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "invalid.length"
+            }, 
+            "index": {
+                "N": "182"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Exceeded maximum amount of characters. Please re-enter details."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "account.invalid.group.trustee"
+            }, 
+            "index": {
+                "N": "140"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please  enter the correct login ID for trustee"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9020"
+            }, 
+            "index": {
+                "N": "57"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "cannot.be.empty"
+            }, 
+            "index": {
+                "N": "186"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Please re-enter details"
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9024"
+            }, 
+            "index": {
+                "N": "60"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "The system has limits on the amount of deposits allowed per month. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9008"
+            }, 
+            "index": {
+                "N": "48"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Unknown transaction type. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9046"
+            }, 
+            "index": {
+                "N": "74"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9041"
+            }, 
+            "index": {
+                "N": "70"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Internal System Error. Please contact Client Services for assistance."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "810003"
+            }, 
+            "index": {
+                "N": "129"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Goal does not exist. Please enter another Goal ID."
+            }
+        }, 
+        {
+            "errorCode": {
+                "S": "9108"
+            }, 
+            "index": {
+                "N": "99"
+            }, 
+            "userFacingErrorMessage": {
+                "S": "Invalid uploaded document. Please re-enter details."
+            }
+        }
+    ], 
+    "ScannedCount": 204, 
+    "ConsumedCapacity": null
+}

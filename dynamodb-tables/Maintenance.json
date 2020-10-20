@@ -1,0 +1,147 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "climb.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/climb.png"
+            }, 
+            "width": {
+                "N": "100"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/climb.svg"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "align.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/align.png"
+            }, 
+            "width": {
+                "N": "30"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/align.png"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "collaborationcapital.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/collaborationcapital.png"
+            }, 
+            "width": {
+                "N": "50"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/collaborationcapital.png"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "getinvestmentadvice.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/getinvestmentadvice.png"
+            }, 
+            "width": {
+                "N": "100"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/getinvestmentadvice.png"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "foliofinancial.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/folioFinancial.png"
+            }, 
+            "width": {
+                "N": "100"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/folioFinancial.png"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "strategymarketplace.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/strategymarketplace.png"
+            }, 
+            "width": {
+                "N": "100"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/strategymarketplace.png"
+            }
+        }, 
+        {
+            "messageSubTitle": {
+                "S": "The website is currently unavailable as we perform maintenance that will provide you with a better experience. Thank you for your patience."
+            }, 
+            "hostname": {
+                "S": "dwp.sbxaws.foliofn.com"
+            }, 
+            "favicon": {
+                "S": "assets/favicons/foliofinancial.png"
+            }, 
+            "width": {
+                "N": "100"
+            }, 
+            "messageTitle": {
+                "S": "Website Temporarily Unavailable"
+            }, 
+            "logo": {
+                "S": "assets/images/foliofinancial.png"
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

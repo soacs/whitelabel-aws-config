@@ -1,0 +1,157 @@
+{
+    "Count": 8, 
+    "Items": [
+        {
+            "brand": {
+                "S": "navyfederal"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    }, 
+                    "active-duty": {
+                        "S": "2882303764832727478"
+                    }, 
+                    "regular": {
+                        "S": "2882303764832727478"
+                    }, 
+                    "firmId": {
+                        "S": "NAVYFEMUSMBTRHWI"
+                    }, 
+                    "memberNumber": {
+                        "S": "43"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "6269010685921948456"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "COLLABVPKGHSRYGC"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "climb"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2233785418460204641"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "CLIMBILUAHZWABYZ"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "3963167674957578524"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "CAPITADIHUULNPLY"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2449958202218647118"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "IPFINAADPMQNQIRK"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "align"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "360287972857185771"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "EARTHENPGMBUVEEI"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "FOLIORQNGTBYHRLT"
+                    }
+                }
+            }
+        }, 
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "billingPlans": {
+                "M": {
+                    "default": {
+                        "S": "2882303764832727478"
+                    }, 
+                    "memberNumber": {
+                        "S": "999"
+                    }, 
+                    "firmId": {
+                        "S": "FIRSTAJJLHDGULFG"
+                    }
+                }
+            }
+        }
+    ], 
+    "ScannedCount": 8, 
+    "ConsumedCapacity": null
+}

@@ -1,0 +1,433 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your personalized investment strategy right now!"
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_mp.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_edu.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_bw.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_ret.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select a goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "climb"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your personalized investment strategy right now!"
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_mp.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_edu.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_bw.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_ret.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select your goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your personalized investment strategy right now!"
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_mp.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_edu.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_bw.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_ret.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select a goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your personalized investment strategy right now!"
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_mp.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_edu.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_bw.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_ret.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select your goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "align"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your sustainable investment solution."
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_mp.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_edu.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_bw.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/intro_ret.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select a goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "07/10/2019"
+            }, 
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your sustainable investment solution."
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/major_purchase.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/education.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/wealth.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/retirement.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }, 
+                    "WEDDING": {
+                        "M": {
+                            "goalImage": {
+                                "S": "/assets/icons/iOS-ring_side_view_filled.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Wedding ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select a goal."
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/13/2019"
+            }, 
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "splashScreenContent": {
+                "S": "We’re building your sustainable investment solution."
+            }, 
+            "goalTypeImagesConfig": {
+                "M": {
+                    "MAJOR_PURCHASE": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/major_purchase.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Major Purchase ADA description"
+                            }
+                        }
+                    }, 
+                    "EDUCATION": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/education.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Education ADA description"
+                            }
+                        }
+                    }, 
+                    "WEALTH": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/wealth.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Build Wealth ADA description"
+                            }
+                        }
+                    }, 
+                    "RETIREMENT": {
+                        "M": {
+                            "goalImage": {
+                                "S": "images/retirement.png"
+                            }, 
+                            "adaDescription": {
+                                "S": "Retirement ADA description"
+                            }
+                        }
+                    }, 
+                    "WEDDING": {
+                        "M": {
+                            "goalImage": {
+                                "S": "/assets/icons/iOS-ring_side_view_filled.svg"
+                            }, 
+                            "adaDescription": {
+                                "S": "Wedding ADA description"
+                            }
+                        }
+                    }
+                }
+            }, 
+            "title": {
+                "S": "Please select a goal."
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

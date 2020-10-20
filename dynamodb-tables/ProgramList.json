@@ -1,0 +1,500 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "CCAP_MMA"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Collaboration Capital MMA"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by Collaboration Capitol"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "climb"
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "CLIMB_BE"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Climb Bespoke"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by First Affirmative"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/07/2019"
+            }, 
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "CMS_MMA"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Custom"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by strategymarketplace"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "08/01/2019"
+            }, 
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "IP_BESPOKE"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Get Investment Advice Bespoke"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by First Affirmative"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/07/2019"
+            }, 
+            "brand": {
+                "S": "align"
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "ALIGN_BESPOKE"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Custom"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by Align"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "07/10/2019"
+            }, 
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "programSelectionHeaderTitle": {
+                "S": "Please select an Investment Program."
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on client's values and objectives"
+                            }, 
+                            "programTag": {
+                                "S": "FA_BESPOKE"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Custom"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed Internally"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Dynamic ETF-based models based on Risk Profile"
+                            }, 
+                            "programTag": {
+                                "S": "FA_ETF"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$"
+                            }, 
+                            "programName": {
+                                "S": "Dynamic ETF Program"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Some Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed Externally"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": true
+                            }, 
+                            "description": {
+                                "S": "A portfolio of ESG-focused mutual funds"
+                            }, 
+                            "programTag": {
+                                "S": "FA_MF"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$$"
+                            }, 
+                            "programName": {
+                                "S": "Managed Mutual Fund"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Less Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed Externally"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": true
+                            }, 
+                            "description": {
+                                "S": "Custom strategies incorporating 3rd party model managers"
+                            }, 
+                            "programTag": {
+                                "S": "FA_MMA"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$$"
+                            }, 
+                            "programName": {
+                                "S": "Multi-Manager Program"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Less Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed Externally"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Strategies with risk-based constraints to define personalization"
+                            }, 
+                            "programTag": {
+                                "S": "FA_RM"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$$"
+                            }, 
+                            "programName": {
+                                "S": "Risk Based Parameters"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Less Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed Externally"
+                            }
+                        }
+                    }
+                ]
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/07/2019"
+            }, 
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "programSelectionHeaderTitle": {
+                "S": "Please select a Sustainable Investment Solution."
+            }, 
+            "programs": {
+                "L": [
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": false
+                            }, 
+                            "description": {
+                                "S": "Curated portfolios based on the client's financial and impact objectives"
+                            }, 
+                            "programTag": {
+                                "S": "FAFN_BESPOKE"
+                            }, 
+                            "customizable": {
+                                "S": "High Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$"
+                            }, 
+                            "programName": {
+                                "S": "Custom"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "High Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by First Affirmative"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": true
+                            }, 
+                            "description": {
+                                "S": "A managed portfolios of SRI/ESG-focused investment models"
+                            }, 
+                            "programTag": {
+                                "S": "FAFN_MMA"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$"
+                            }, 
+                            "programName": {
+                                "S": "Multi-Manager"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Some Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by First Affirmative"
+                            }
+                        }
+                    }, 
+                    {
+                        "M": {
+                            "isSriPageEnabled": {
+                                "BOOL": true
+                            }, 
+                            "description": {
+                                "S": "A portfolio of SRI/ESG-focused mutual fund"
+                            }, 
+                            "programTag": {
+                                "S": "FAFN_MF"
+                            }, 
+                            "customizable": {
+                                "S": "Some Customization"
+                            }, 
+                            "advocacy": {
+                                "S": "Some Advocacy"
+                            }, 
+                            "cost": {
+                                "S": "$$$"
+                            }, 
+                            "programName": {
+                                "S": "Managed Mutual Fund"
+                            }, 
+                            "taxEfficiency": {
+                                "S": "Less Tax Efficiency"
+                            }, 
+                            "thirdPartyManager": {
+                                "S": "Managed by First Affirmative"
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

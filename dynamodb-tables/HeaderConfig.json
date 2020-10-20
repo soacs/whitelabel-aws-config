@@ -1,0 +1,3257 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "50px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/collaborationcapital/images/logo-collaborationcapital.png"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "300px"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "Collaboration Capital, LLC"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by Collaboration Capital, LLC. All rights reserved. Securities products and brokerage and clearing services are offered by Folio Investments Inc., a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/collaborationcapital/docs/Collaboration%20Capital%20ADV%20Part%202A%203.27.2020.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/collaborationcapital/docs/Collaboration%20Capital%20Privacy%20Notice.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://collaboration.capital/disclosure/"
+                                    }, 
+                                    "text": {
+                                        "S": "Disclosures"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/collaborationcapital/images/logo-collaborationcapital.png"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": false
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "150px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "50px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/climb/images/logo-climb.svg"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "auto"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "climb"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "CLIMB Capital Management, LLC"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by CLIMB Capital Management, LLC. All rights reserved. Securities products and brokerage and clearing services are offered by Folio Investments Inc., a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/climb/docs/Form-ADV.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/climb/docs/Privacy-Policy.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/climb/docs/Terms-Of-Service.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Terms of Service"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/climb/docs/Client-Relationship-Summary.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Client Relationship Summary"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/climb/images/logo-footer-climb.svg"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "150px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "37px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/strategymarketplace/images/strategy-marketplace-header-logo.png"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "300px"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "Strategy Marketplace, LLC"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by Strategy Marketplace, LLC. All rights reserved.\n Securities products and brokerage and clearing services are offered by Folio Investments Inc.,\n a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/strategymarketplace/docs/Strategy-Form-ADV.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/strategymarketplace/docs/Customer-Relationship-Summary.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Customer Relationship Summary"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/strategymarketplace/images/strategy-marketplace-footer-logo.png"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "240px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "50px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/getinvestmentadvice/images/getinvestmentadvice-header-logo.svg"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "auto"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "IP Financial Advisory Services, LLC"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by IP Financial Advisory Services, LLC. All rights reserved. Securities products and brokerage and clearing services are offered by Folio Investments Inc., a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/getinvestmentadvice/docs/IPFAS-Form-ADV.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/getinvestmentadvice/docs/IPFAS-Privacy-Policy.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/getinvestmentadvice/docs/IPFAS-Fees-and-Compensation.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Fees And Compensation"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/getinvestmentadvice/docs/IPFAS-Form-CRS.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Customer Relationship"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/getinvestmentadvice/images/getinvestmentadvice-footer-logo.svg"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "240px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "37px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/align/images/align-logo.png"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "170px"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "align"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "Earth Equity Advisors, LLC."
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by Earth Equity Advisors, LLC. All rights reserved.\n                     Securities products and brokerage and clearing services are offered by Folio Investments Inc.,\n                     a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/align/docs/Form%20ADV%20Part%202A.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/align/docs/Privacy%20Policy.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://adviserinfo.sec.gov/firm/summary/285554"
+                                    }, 
+                                    "text": {
+                                        "S": "IAPD"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/align/images/align-logo.png"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "150px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "07/10/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "50px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/foliofinancial/images/FolioFinancial.svg"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "300px"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "Folio Financial"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by Folio Financial, Inc. All rights reserved.\n                     Securities products and brokerage and clearing services are offered by Folio Investments Inc.,\n                     a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": []
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/foliofinancial/images/FolioFinancial.svg"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": false
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "150px"
+                            }
+                        }
+                    }
+                }
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/11/2019"
+            }, 
+            "headerConfig": {
+                "M": {
+                    "howWeInvest": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "whatItCosts": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "taxManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "accountTypes": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "goalsBasedInvesting": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "portFolioFeatures": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "feeCalculator": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "anyDevice": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "displayActiveAccounts": {
+                        "M": {
+                            "activeUrls": {
+                                "L": [
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/settings/uao"
+                                            }, 
+                                            "subNav": {
+                                                "S": "account-settings-settings"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transactions"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/transfer-money"
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "M": {
+                                            "url": {
+                                                "S": "/main/corporate-actions"
+                                            }
+                                        }
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoHeight": {
+                        "M": {
+                            "height": {
+                                "S": "50px"
+                            }
+                        }
+                    }, 
+                    "builtJustForYou": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "pricing": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "completePortfolioManagement": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoPath": {
+                        "M": {
+                            "path": {
+                                "S": "/assets/brands/firstaffirmative/images/folioFinancialLogoWhite.png"
+                            }
+                        }
+                    }, 
+                    "home": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": []
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "logoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "250px"
+                            }
+                        }
+                    }, 
+                    "whatWeOffer": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": false
+                            }
+                        }
+                    }, 
+                    "compareUsToOthers": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }, 
+                    "login": {
+                        "M": {
+                            "excludeInComponents": {
+                                "L": [
+                                    {
+                                        "S": "questionnaire"
+                                    }, 
+                                    {
+                                        "S": "join-samesurf"
+                                    }
+                                ]
+                            }, 
+                            "display": {
+                                "BOOL": true
+                            }
+                        }
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "footerConfig": {
+                "M": {
+                    "companyName": {
+                        "S": "First Affirmative Financial Network"
+                    }, 
+                    "text": {
+                        "M": {
+                            "copyrite": {
+                                "NULL": true
+                            }, 
+                            "description": {
+                                "M": {
+                                    "line2": {
+                                        "S": " "
+                                    }, 
+                                    "line1": {
+                                        "S": "by First Affirmative Financial Network, LLC, a wholly-owned subsidiary of Folio Financial, Inc., is an investment advisory firm (SEC # 801-56587). All rights reserved. Securities products and brokerage and clearing services are offered by Folio Investments Inc., a registered broker-dealer and member FINRA/SIPC."
+                                    }
+                                }
+                            }
+                        }
+                    }, 
+                    "navigationFirm": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/firstaffirmative/docs/Folio%20Wrap%20Fee%20Brochure%20Form%20ADV%20Part%202A%20Appendix%201A.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Fees"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/firstaffirmative/docs/Form%20ADV%20Part%202A.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Form CRS and ADV"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/assets/brands/firstaffirmative/docs/Privacy%20Policy.pdf"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/"
+                                    }, 
+                                    "text": {
+                                        "S": "RIA Req 1"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": false
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "/"
+                                    }, 
+                                    "text": {
+                                        "S": "RIA Req 2"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": false
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "http://sec.gov"
+                                    }, 
+                                    "text": {
+                                        "S": "Sec Gov"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "images": {
+                        "M": {
+                            "companyLogo": {
+                                "S": "/assets/brands/firstaffirmative/images/FolioFinancial.png"
+                            }
+                        }
+                    }, 
+                    "navigation": {
+                        "L": [
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/privacy-security/privacy-policy/"
+                                    }, 
+                                    "text": {
+                                        "S": "Privacy Policy"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "home/browser-support"
+                                    }, 
+                                    "text": {
+                                        "S": "Browser Support"
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://brokercheck.finra.org/"
+                                    }, 
+                                    "text": {
+                                        "S": "FINRA: BrokerCheck"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.sipc.org"
+                                    }, 
+                                    "text": {
+                                        "S": "SIPC"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }, 
+                            {
+                                "M": {
+                                    "url": {
+                                        "S": "https://www.folioinvesting.com/folioinvesting/important-disclosures/"
+                                    }, 
+                                    "text": {
+                                        "S": "DISCLOSURES"
+                                    }, 
+                                    "showPopup": {
+                                        "BOOL": true
+                                    }, 
+                                    "display": {
+                                        "BOOL": true
+                                    }
+                                }
+                            }
+                        ]
+                    }, 
+                    "footerlogoWidth": {
+                        "M": {
+                            "width": {
+                                "S": "150px"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

@@ -1,0 +1,154 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "collaborationcapital"
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "climb"
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "strategymarketplace"
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "getinvestmentadvice"
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "align"
+            }
+        }, 
+        {
+            "date": {
+                "S": "07/11/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "foliofinancial"
+            }
+        }, 
+        {
+            "date": {
+                "S": "06/12/2019"
+            }, 
+            "transferMoneyConfig": {
+                "M": {
+                    "order-text": {
+                        "S": "transfer"
+                    }, 
+                    "create-order-text": {
+                        "S": "Money Movement"
+                    }, 
+                    "open-orders-text": {
+                        "S": "Money Movement Status"
+                    }
+                }
+            }, 
+            "brand": {
+                "S": "firstaffirmative"
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

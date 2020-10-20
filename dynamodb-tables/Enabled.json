@@ -1,0 +1,873 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "PINEnabled": {
+                "BOOL": true
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": false
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": true
+            }, 
+            "PIN": {
+                "S": "8180"
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": false
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": true
+            }, 
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": false
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": false
+                    }, 
+                    "showSri": {
+                        "BOOL": false
+                    }, 
+                    "showIndividual": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": false
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": false
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "5000"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": false
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": true
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "85"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": false
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": true
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": false
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": false
+            }, 
+            "PIN": {
+                "S": "8180"
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": false
+            }, 
+            "brand": {
+                "S": "climb"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": false
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": false
+                    }, 
+                    "showSri": {
+                        "BOOL": true
+                    }, 
+                    "showIndividual": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": false
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": true
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "0"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": false
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": true
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "85"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": true
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": true
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": false
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": true
+            }, 
+            "PIN": {
+                "S": "8180"
+            }, 
+            "ageOfIncomeStability": {
+                "N": "55"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": false
+            }, 
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": false
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": false
+                    }, 
+                    "showSri": {
+                        "BOOL": false
+                    }, 
+                    "showIndividual": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": false
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": false
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "5000"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": false
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": true
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "95"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": false
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": true
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": false
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": false
+            }, 
+            "PIN": {
+                "S": "8180"
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": false
+            }, 
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": false
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": false
+                    }, 
+                    "showSri": {
+                        "BOOL": false
+                    }, 
+                    "showIndividual": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": false
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": true
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "0"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": false
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": true
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "85"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": true
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": false
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": false
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": false
+            }, 
+            "PIN": {
+                "S": "8180"
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": true
+            }, 
+            "brand": {
+                "S": "align"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": false
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": false
+                    }, 
+                    "showSri": {
+                        "BOOL": true
+                    }, 
+                    "showIndividual": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": false
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": true
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "5000"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": false
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": true
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "85"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": false
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": false
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": true
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": false
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "87"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": false
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": true
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": true
+            }, 
+            "isAccountCreationEnabled": {
+                "BOOL": true
+            }, 
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": true
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": true
+                    }, 
+                    "showSri": {
+                        "BOOL": true
+                    }, 
+                    "showIndividual": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": true
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": true
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": false
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": false
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }, 
+        {
+            "PINEnabled": {
+                "BOOL": false
+            }, 
+            "summaryPageButtonsConfig": {
+                "M": {
+                    "isUAOEnabled": {
+                        "BOOL": false
+                    }, 
+                    "isAccountCreationEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isSaveGoalEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isDownloadPortfolioEnabled": {
+                        "BOOL": true
+                    }, 
+                    "isLegacyAccount": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "isSamesurfIconEnabled": {
+                "BOOL": true
+            }, 
+            "hasAdvisorFlow": {
+                "BOOL": true
+            }, 
+            "livePersonAccount": {
+                "S": "18037933"
+            }, 
+            "questionnaireJSONValidationSwitch": {
+                "BOOL": false
+            }, 
+            "hidePreferencesOnSummaryScreen": {
+                "BOOL": false
+            }, 
+            "ageOfIncomeStability": {
+                "N": "50"
+            }, 
+            "summaryPagePreferences": {
+                "M": {
+                    "showInclusionExclusion": {
+                        "BOOL": true
+                    }, 
+                    "showReduceExposure": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "isUAOSettingsEnabled": {
+                "BOOL": false
+            }, 
+            "closeAccountButtonEnabled": {
+                "BOOL": false
+            }, 
+            "initialDepositConfigurable": {
+                "BOOL": false
+            }, 
+            "isAccountCreationEnabled": {
+                "BOOL": true
+            }, 
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "isSamesurfStartWithHomePage": {
+                "BOOL": true
+            }, 
+            "summaryPageEditPreferencesButtonConfig": {
+                "M": {
+                    "showNetWorth": {
+                        "BOOL": true
+                    }, 
+                    "showEmploymentButton": {
+                        "BOOL": true
+                    }, 
+                    "showSri": {
+                        "BOOL": true
+                    }, 
+                    "showIndividual": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "enableAdvisor": {
+                "BOOL": true
+            }, 
+            "date": {
+                "S": "08/29/2019"
+            }, 
+            "editPreferencesButtonConfig": {
+                "BOOL": true
+            }, 
+            "enableSolveForQuestions": {
+                "BOOL": true
+            }, 
+            "initialDepositAmount": {
+                "N": "0"
+            }, 
+            "isOldSettingsEnabled": {
+                "BOOL": true
+            }, 
+            "isSamesurfHotKeyEnabled": {
+                "BOOL": true
+            }, 
+            "showRestartQuestionnaireModal": {
+                "BOOL": false
+            }, 
+            "lifeExpectancyMaximumAge": {
+                "N": "87"
+            }, 
+            "inflationRate": {
+                "N": "0.025"
+            }, 
+            "sourceMap": {
+                "BOOL": false
+            }, 
+            "isSriSliderEnabled": {
+                "BOOL": false
+            }, 
+            "livePersonEnabled": {
+                "BOOL": false
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}

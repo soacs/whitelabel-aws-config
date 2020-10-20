@@ -1,0 +1,95 @@
+{
+    "Count": 8, 
+    "Items": [
+        {
+            "brand": {
+                "S": "navyfederal"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "climb"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "validated": {
+                "BOOL": false
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "align"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "validated": {
+                "BOOL": true
+            }, 
+            "releaseNumber": {
+                "S": "RB-2.3.3"
+            }
+        }
+    ], 
+    "ScannedCount": 8, 
+    "ConsumedCapacity": null
+}

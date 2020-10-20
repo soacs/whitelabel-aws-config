@@ -1,0 +1,76 @@
+{
+    "Parameters": [
+        {
+            "Name": "/sbx/align/security", 
+            "LastModifiedDate": 1592342452.879, 
+            "Value": "{\n  \"backendApiHostName\": \"apigw.dap.foliofn.com\",  \n  \"brand\": \"align\", \n  \"date\": \"07/15/2019\",  \n  \"documentAPIHostName\": \n  \"https://apigw-int.dap.foliofn.com\",  \n  \"oauthConfig\":   {\n     \"clientId\": \"roboDev\",    \n     \"loginUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/authorize\",    \n     \"logoutUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/logout\",    \n     \"redirectUri\": \"https://dap.invest.alignyourgreen.com/robo/authorization/callback\",    \n     \"scope\": \"token:folio_node\",   \n     \"sessionInactivity\": 120000,    \n     \"storageKey\": \"folioRoboFAStoreDev\", \n     \"tokenExpirationTimer\": 30,    \n     \"tokenUrl\": \"https://oauth.dap.invest.alignyourgreen.com/oauth_authorization/oauth/token\"\n},\n\"verificationApiUrl\": \"https://verification.dap.invest.alignyourgreen.com\"}", 
+            "Version": 4, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/align/security"
+        }, 
+        {
+            "Name": "/sbx/climb/security", 
+            "LastModifiedDate": 1592342476.422, 
+            "Value": "{\n   \"backendApiHostName\": \"apigw.dap.foliofn.com\",\n   \"brand\": \"climb\",  \"date\": \"06/10/2019\",\n   \"oauthConfig\": {   \n   \"clientId\": \"roboDev\",\n   \"loginUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",   \n   \"logoutUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/logout\",   \n   \"redirectUri\": \"https://climb.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",   \n    \"sessionInactivity\": 120000, \n    \"storageKey\": \"folioRoboFAStoreDev\",    \n    \"tokenExpirationTimer\": 30,    \n   \"tokenUrl\": \"https://oauthclimb.dapaws.foliofn.com/oauth_authorization/oauth/token\"},\n  \"verificationApiUrl\": \"https://verificationclimb.dapaws.foliofn.com\"\n}", 
+            "Version": 2, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/climb/security"
+        }, 
+        {
+            "Name": "/sbx/collaborationcapital/security", 
+            "LastModifiedDate": 1592342487.014, 
+            "Value": "{\n  \"backendApiHostName\": \"apigw.dap.foliofn.com\",\n  \"brand\": \"collaborationcapital\",\n  \"date\": \"06/10/2019\",\n  \"oauthConfig\": {\n    \"clientId\": \"roboDev\",\n    \"loginUrl\": \"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\n    \"logoutUrl\": \"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/logout\",\n    \"redirectUri\": \"https://collaborationcapital.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",\n    \"sessionInactivity\": 120000,\n    \"storageKey\": \"folioRoboFAStoreDev\",\n    \"tokenExpirationTimer\": 30,\n    \"tokenUrl\": \"https://oauthcollaborationcapital.dapaws.foliofn.com/oauth_authorization/oauth/token\"\n  },\n  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 3, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/collaborationcapital/security"
+        }, 
+        {
+            "Name": "/sbx/firstaffirmative/security", 
+            "LastModifiedDate": 1592948342.607, 
+            "Value": "{ \n\"backendApiHostName\": \"apigw.dap.foliofn.com\",  \n\"brand\": \"firstaffirmative\",  \n\"date\": \"06/10/2019\",  \n\"oauthConfig\": {  \n  \"clientId\": \"roboDev\",    \n  \"loginUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",    \n  \"logoutUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/logout\",    \n  \"redirectUri\": \"https://dwp.dapaws.foliofn.com/robo/authorization/callback\",    \n  \"scope\": \"token:folio_node\",    \n  \"sessionInactivity\": 120000,    \n  \"storageKey\": \"folioRoboFAStoreDev\",    \n  \"tokenExpirationTimer\": 90,    \n  \"tokenUrl\": \"https://oauthdwp.dapaws.foliofn.com/oauth_authorization/oauth/token\" \n }, \n \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 3, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/firstaffirmative/security"
+        }, 
+        {
+            "Name": "/sbx/foliofinancial/security", 
+            "LastModifiedDate": 1592342511.48, 
+            "Value": "{ \n\"backendApiHostName\": \"apigw.dap.foliofn.com\",  \n   \"brand\": \"foliofinancial\",  \n  \"date\": \"07/15/2019\",  \n  \"oauthConfig\": {    \n     \"clientId\": \"roboDev\",    \n     \"loginUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",   \n     \"logoutUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/logout\",    \n     \"redirectUri\": \"https://foliofinancial.dapaws.foliofn.com/folioalpha/authorization/callback\",    \n     \"scope\": \"token:folio_node\",    \n     \"sessionInactivity\": 120000,    \n     \"storageKey\": \"folioRoboFAStoreDev\",    \n     \"tokenExpirationTimer\": 90,    \n     \"tokenUrl\": \"https://oauthfolioalpha.dapaws.foliofn.com/oauth_authorization/oauth/token\"  \n},  \n\"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 2, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/foliofinancial/security"
+        }, 
+        {
+            "Name": "/sbx/getinvestmentadvice/security", 
+            "LastModifiedDate": 1592342520.844, 
+            "Value": "Value\n{\n  \"backendApiHostName\": \"apigw.dap.foliofn.com\",\n  \"brand\": \"getinvestmentadvice\",\n  \"date\": \"06/10/2019\",\n  \"oauthConfig\": {\n    \"clientId\": \"roboDev\",\n    \"loginUrl\": \"https://oauthgetinvestmentadvice.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\n    \"logoutUrl\": \"https://oauthgetinvestmentadvice.dapaws.foliofn.com/oauth_authorization/logout\",\n    \"redirectUri\": \"https://getinvestmentadvice.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",\n    \"sessionInactivity\": 120000,\n    \"storageKey\": \"folioRoboFAStoreDev\",\n    \"tokenExpirationTimer\": 30,\n    \"tokenUrl\": \"https://oauthgetinvestmentadvice.dapaws.foliofn.com/oauth_authorization/oauth/token\"\n  },\n  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 2, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/getinvestmentadvice/security"
+        }, 
+        {
+            "Name": "/sbx/navyfederal/security", 
+            "LastModifiedDate": 1592342531.296, 
+            "Value": "{\n  \"backendApiHostName\": \"apigw.dap.foliofn.com\",\n  \"brand\": \"navyfederal\",\n  \"date\": \"06/10/2019\",\n  \"oauthConfig\": {\n    \"clientId\": \"roboDev\",\n    \"loginUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\n    \"logoutUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/logout\",\n    \"redirectUri\": \"https://dwprobo.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",\n    \"sessionInactivity\": 120000,\n    \"storageKey\": \"folioRoboFAStoreDev\",\n    \"tokenExpirationTimer\": 90,\n    \"tokenUrl\": \"https://oauthdwprobo.dapaws.foliofn.com/oauth_authorization/oauth/token\"\n  },\n  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 2, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/navyfederal/security"
+        }, 
+        {
+            "Name": "/sbx/strategymarketplace/security", 
+            "LastModifiedDate": 1592342568.465, 
+            "Value": "{\n  \"backendApiHostName\": \"apigw.dap.foliofn.com\",\n  \"brand\": \"strategymarketplace\",\n  \"date\": \"06/10/2019\",\n  \"oauthConfig\": {\n    \"clientId\": \"roboDev\",\n    \"loginUrl\": \"https://oauthstrategymarketplace.dapaws.foliofn.com/oauth_authorization/oauth/authorize\",\n    \"logoutUrl\": \"https://oauthstrategymarketplace.dapaws.foliofn.com/oauth_authorization/logout\",\n    \"redirectUri\": \"https://strategymarketplace.dapaws.foliofn.com/robo/authorization/callback\",\n    \"scope\": \"token:folio_node\",\n    \"sessionInactivity\": 120000,\n    \"storageKey\": \"folioRoboFAStoreDev\",\n    \"tokenExpirationTimer\": 30,\n    \"tokenUrl\": \"https://oauthstrategymarketplace.dapaws.foliofn.com/oauth_authorization/oauth/token\"\n  },\n  \"verificationApiUrl\": \"https://verification.dapaws.foliofn.com\"\n}", 
+            "Version": 2, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/sbx/strategymarketplace/security"
+        }, 
+        {
+            "Name": "resetpassword", 
+            "LastModifiedDate": 1592597160.495, 
+            "Value": "{\n\"signin.align.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthalign.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=EARTHEQUITYCLIENT\",\n\n\"signin.climb.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthclimb.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=CLIMBINVESTMENTCLIENT\",\n\n\"signin.collaborationcapital.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthcollaborationcapital.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=COLLABORATIONCLIENT\",\n\n\"signin.dwsp.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthdwsp.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=FAFNCLIENT\",\n\n\"signin.strategymarketplace.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthstrategymarketplace.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=CAPMANAGEMENTCLIENT\",\n\n\"signin.getinvestmentadvice.dapaws.foliofn.com\": \"https://identity.dapaws.foliofn.com/identity/login?service=https%3A%2F%2Fverification.dapaws.foliofn.com%3A443%2Fverification%2Flogin%3Fservice%3Dhttps%253A%252F%252Foauthgetinvestmentadvice.dapaws.foliofn.com%252Foauth_authorization%252Flogin%252Fcas&login.partnercode=IPFINANCIALCLIENT\"\n}", 
+            "Version": 10, 
+            "Type": "String", 
+            "ARN": "arn:aws:ssm:us-east-1:772387772726:parameter/resetpassword"
+        }
+    ]
+}

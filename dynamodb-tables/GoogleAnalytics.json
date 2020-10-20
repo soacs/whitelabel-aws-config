@@ -1,0 +1,199 @@
+{
+    "Count": 7, 
+    "Items": [
+        {
+            "brand": {
+                "S": "collaborationcapital"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": true
+                    }, 
+                    "questionnaire": {
+                        "BOOL": false
+                    }, 
+                    "uao": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157168220-6"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157168220-6"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "climb"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    }, 
+                    "questionnaire": {
+                        "BOOL": true
+                    }, 
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157148597-1"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157168220-1"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "strategymarketplace"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    }, 
+                    "questionnaire": {
+                        "BOOL": false
+                    }, 
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157148597-2"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157739352-2"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "getinvestmentadvice"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    }, 
+                    "questionnaire": {
+                        "BOOL": true
+                    }, 
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157148597-1"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157168220-1"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "align"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    }, 
+                    "questionnaire": {
+                        "BOOL": false
+                    }, 
+                    "uao": {
+                        "BOOL": true
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157148597-1"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157148597-1"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "foliofinancial"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": false
+                    }, 
+                    "questionnaire": {
+                        "BOOL": false
+                    }, 
+                    "transfermoney": {
+                        "BOOL": true
+                    }, 
+                    "uao": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157168220-4"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157168220-4"
+            }
+        }, 
+        {
+            "brand": {
+                "S": "firstaffirmative"
+            }, 
+            "trackAreas": {
+                "M": {
+                    "all": {
+                        "BOOL": true
+                    }, 
+                    "questionnaire": {
+                        "BOOL": true
+                    }, 
+                    "uao": {
+                        "BOOL": false
+                    }
+                }
+            }, 
+            "folioTrackingId": {
+                "S": "UA-157168220-3"
+            }, 
+            "isEnabled": {
+                "BOOL": true
+            }, 
+            "trackingId": {
+                "S": "UA-157168220-3"
+            }
+        }
+    ], 
+    "ScannedCount": 7, 
+    "ConsumedCapacity": null
+}
